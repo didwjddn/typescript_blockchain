@@ -1,6 +1,5 @@
 # Typechain
 
-Learning TS by making a blockchain with it.
+Learning TS by making a blockchain with it
 
 
-dist
